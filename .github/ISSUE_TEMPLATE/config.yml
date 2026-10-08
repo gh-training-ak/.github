@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Question or discussion
+    url: https://github.com/orgs/gh-training-ak/discussions
+    about: Ask before opening an issue.
+  - name: Security vulnerability
+    url: https://docs.github.com/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability
+    about: Report privately. Never open a public issue for a vulnerability.

@@ -1,0 +1,7 @@
+{
+  "name": "Node build",
+  "description": "Install with npm ci, then lint, test and build.",
+  "iconName": "example-icon",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["package\\.json$"]
+}
